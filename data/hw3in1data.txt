@@ -1,0 +1,6 @@
+mobileDevices laptops tablets phones
+laptops regularlaptops chromebooks
+regularlaptops windowsLaptops macbooks linuxLaptops
+tablets iPads androidTablets windowsTablets
+phones cellPhones smartphones
+smartphones iPhones androidPhones windowsPhones

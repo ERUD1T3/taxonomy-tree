@@ -1,0 +1,9 @@
+IsSupercategory phones tablets no
+DirectSupercategory androidTablets tablets
+AllSubcategories laptops chromebooks regularlaptops linuxLaptops macbooks windowsLaptops 
+ClosestCommonSupercategory iPhones chromebooks mobileDevices
+IsSubcategory tablets iPads yes
+DirectSubcategories smartphones androidPhones iPhones windowsPhones
+AllSupercategories cellPhones phones mobileDevices
+NumberOfAllSupercategories laptops 1
+NumberOfAllSubcategories phones 5

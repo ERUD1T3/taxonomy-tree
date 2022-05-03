@@ -1,0 +1,9 @@
+{
+    "powermode.enabled": true,
+    "powermode.presets": "flames",
+    "beautify.config": {
+        "key": "alt+b",
+        "command": "HookyQR.beautify",
+        "when": "editorFocus"
+    }
+}
